@@ -1,5 +1,5 @@
 # DALL-E-2.0
-Open AI has gained incredible popularity with its applications such as Chat GPT, and DALL-E. This web application is an improved version of DALL-E where it incorporates a community space where users can share their AI-generated images and the prompt used.
+Open AI has gained incredible popularity with its applications such as Chat GPT, and DALL-E. This web application is an improved version of DALL-E where it incorporates a community space where users can share their AI-generated images and the prompt used. The is a full stack app using React Js, Tailwind CSS, Express Js, MongoDB and Node Js along with Cloudinary to store the generated images in the backend. 
 
 ## Installation / Usage 
 
