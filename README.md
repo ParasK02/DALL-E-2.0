@@ -16,4 +16,4 @@ My API calls from OpenAI API ran out :( you can replace it with your own if you'
 ![Dalle2](https://github.com/ParasK02/DALL-E-2.0/assets/90861109/9f291f06-321c-45ec-9e7c-a24bc7a1f3d3)
 
 ## Credits
-This application was a project from the course [JavaScript Mastery Course](https://www.jsmastery.pro/complete-path-to-javascript-mastery) I am taking.
+This application was a project from the course JavaScript Mastery Course by [@adrianhajdin](https://github.com/adrianhajdin).
